@@ -3,8 +3,9 @@ backend:
   branch: main
 media_folder: "/images/uploads"
   repo: https://github.com/MadsHaerup/gatsbyblog
-  
+
 collections:
+  
   - name: "blog"
     label: "Blog"
     folder: "content/blog"
