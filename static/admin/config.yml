@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main
-  media_folder: "static/admin/images/uploads"
+media_folder: "/images/uploads"
   repo: https://github.com/MadsHaerup/gatsbyblog
   collections:
   - name: "blog"
