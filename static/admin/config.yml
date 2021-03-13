@@ -1,7 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
   branch: main
-  media_folder: "images/uploads"
+  media_folder: "static/admin/images/uploads"
+  repo: https://github.com/MadsHaerup/gatsbyblog
   collections:
   - name: "blog"
     label: "Blog"
